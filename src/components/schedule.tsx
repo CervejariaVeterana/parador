@@ -15,7 +15,7 @@ export function Schedule() {
       </div>
 
       <div className="flex flex-col py-4 px-12 text-center gap-4 text-white bg-gradient-to-b from-[#FB3718] to-[#FB6D32]">
-        <h3 className="text-7xl text-center font-Glorious uppercase tracking-[0.1em] text-shadow shadow-black">
+        <h3 className="text-7xl text-center font-Glorious uppercase tracking-[0.1em] text-shadow shadow-green">
           SEMANA 1
         </h3>
 
@@ -161,6 +161,32 @@ export function Schedule() {
           </span>
           ESPECIAL ST PATRICK'S GABY FERREIRA & POLAINAS / POP
         </p>
+      </div>
+
+      <div className="flex flex-col py-4 px-12 text-center gap-4 text-white bg-gradient-to-b from-[#1A5100] to-[#2C8700]">
+        <h3 className="text-7xl text-center font-Glorious uppercase tracking-[0.1em] text-shadow shadow-black">
+           ST PATRICK'S
+        </h3>
+
+        <p className="flex flex-col text-lg font-Flexo text-shadow shadow-[#393939]">
+          <span className="text-2xl text-center uppercase font-bold shadow-black">
+            16.03, AS 19H / SÁBADO
+          </span>
+         BLOCO DA LAJE
+        </p>
+        <p className="flex flex-col text-lg font-Flexo text-shadow shadow-[#194D00]">
+          <span className="text-2xl text-center uppercase font-bold shadow-black">
+            17.03, AS 19H / DOMINGO 
+          </span>
+          WORKSTATION
+        </p>
+        <p className="flex flex-col text-lg font-Flexo text-shadow shadow-[#194D00]">
+          <span className="text-2xl text-center uppercase font-bold shadow-black">
+            17.03 / DOMINGO 
+          </span>
+          GABY FERREIRA & POLAINAS / POP
+        </p>
+
       </div>
 
       <div className="flex flex-col py-4 px-12 text-center gap-4 text-black bg-gradient-to-b from-[#FAAD6E] to-[#F8DCAE]">
