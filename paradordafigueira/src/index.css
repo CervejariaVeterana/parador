@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Glorious";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../public/fonts/Glorious.ttf);
+  }
+  @font-face {
+    font-family: "Flexo";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../public/fonts/Flexo-Regular.otf);
+  }
+  @font-face {
+    font-family: "Flexo";
+    font-style: bold;
+    font-weight: 800;
+    font-display: swap;
+    src: url(../public/fonts/Flexo-Bold.otf);
+  }
+}
